@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:f4ffad&height=240&text=KSEB-AI%202팀%20'도와조'의%20Backend%20Repository&animation=fadeIn&fontColor=6a5858&fontSize=35&fontAlignY=40&desc=경기대학교%20SW%20Bootcamp%204기%20AI%20도메인%20Team%202&descAlignY=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:f4ffad&height=240&text=SeSAC-Hackathon%20팀%20'AIFL'의%20Backend%20Repository&animation=fadeIn&fontColor=6a5858&fontSize=35&fontAlignY=40&desc=%20SeSAC%20Hackathon%20Team%20&descAlignY=60)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Us
 > **안녕하세요!**
-> 저희는 경기대학교 **SW Bootcamp 4기 AI 도메인 2팀 '도와조'** 입니다.  
+> 저희는 **2025-SeSAC-Hackathon팀 'AIFL(에이플)'** 입니다.  
 > **AI 기술**을 활용해 **실제 문제를 해결하는 실용적인 프로젝트**를 만들고자 합니다. 🚀
 
 ---
@@ -29,7 +29,7 @@
 
 ## 📂 About Our Project
 
-> KSEB-Backend Repository는 **KSEB 4기 2팀의 Backend 코드**를 담고 있습니다.  
+> SeSAC-Backend Repository는 **AIFL(에이플)팀의 Backend 코드**를 담고 있습니다.  
 > Spring Boot 기반의 안정적인 RESTful API를 구축하여, AI 모델과 프론트엔드 간의 원활한 데이터 통신을 책임집니다.
 
 📌 **주요 기능:**
@@ -81,7 +81,6 @@ src/main/java
 | 🧑‍🎓 황태연 | Backend Dev & AI Dev |
 | 🧑‍🎓 이찬 | Backend Dev & AI Dev |
 | 🧑‍🎓 김세현 | Front Dev |
-| 🧑‍🎓 고윤서 | AI Dev |
 
 ---
 
