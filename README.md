@@ -73,7 +73,7 @@ src/main/java
 
 ---
 
-## 🤝 Team '도와조'
+## 🤝 Team 'AIFL'
 
 | Name | Role |
 |------|------|
